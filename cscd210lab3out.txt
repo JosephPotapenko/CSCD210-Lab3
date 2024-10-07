@@ -1,0 +1,46 @@
+ 
+  ----jGRASP exec: java cscd210lab3.CSCD210Lab3
+ Please enter a single alphabetic lowercased character: 
+ a
+ Please enter your full name: 
+ Joseph Vladimir Potapenko
+ Please enter your birth year: 
+ 2002
+ The first letter of your name is: J
+ The last letter of your name is: o
+ Your middle name is:  Vladimir
+ 812712976
+ Joseph Vl?dimir Pot?penko
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java cscd210lab3.CSCD210Lab3
+ Please enter a single alphabetic lowercased character: 
+ s
+ Please enter your full name: 
+ Stu Franken Steiner
+ Please enter your birth year: 
+ 2023
+ The first letter of your name is: S
+ The last letter of your name is: r
+ Your middle name is:  Franken
+ -578608908
+ ?tu Franken ?teiner
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java cscd210lab3.CSCD210Lab3
+ Please enter a single alphabetic lowercased character: 
+ s
+ Please enter your full name: 
+ Stu the Franken Steiner
+ Please enter your birth year: 
+ 2001
+ The first letter of your name is: S
+ The last letter of your name is: r
+ Your middle name is:  the Franken
+ -578608972
+ ?tu the Franken ?teiner
+ 
+  ----jGRASP: operation complete.
+ 
